@@ -1,0 +1,9 @@
+[submodule "orderjoy_frontend"]
+	path = orderjoy_frontend
+	url = https://github.com/MidhunChandera/orderjoy_frontend.git
+[submodule "orderjoy_backend"]
+	path = orderjoy_backend
+	url = https://github.com/MidhunChandera/orderjoy_backend.git
+[submodule "orderjoy_admin"]
+	path = orderjoy_admin
+	url = https://github.com/MidhunChandera/orderjoy_admin.git
